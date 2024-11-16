@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar target/user-service-bits.jar
+web: java -Dserver.port=$PORT -jar target/user-service-bits-1.0-SNAPSHOT.jar
